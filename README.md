@@ -1,5 +1,5 @@
 # AdminLTE.NETCore
-Implementation of AdminLTE Layout with ASP.NET Core 2.0 MVC in VS2017
+Implementation of AdminLTE Layout with ASP.NET Core 2.0 MVC in VS2017......
 
 For the source of the layout look at here, there is great support there:
 https://github.com/almasaeed2010/AdminLTE
